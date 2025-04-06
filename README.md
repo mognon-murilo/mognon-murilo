@@ -55,9 +55,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux"/>
-    <img src="https://nmap.org/images/sitelogo-nmap.svg" width="50" title="Nmap"/>
   </p>
+  <h3 align="center">🛡️ Cybersecurity & Pentest</h3>
+<div align="center">
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux"/>
+  </p>
+</div>
+
 
 </div>
 

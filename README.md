@@ -1,5 +1,5 @@
 <p align="center">
-##         👋 Hi there! I'm a Backend/DevOps Developer and a Computer Science student based in Brazil.
+#         👋 Hi there! I'm a Backend/DevOps Developer and a Computer Science student based in Brazil.
 
 </p>
 <p align="center">

@@ -17,6 +17,20 @@
   </a>
 </p>
 
+<div>
+  <img src="avatar.png.png" alt="My Avatar" width="200" align="right">
+  <p>
+  - I'm a <strong>Backend/DevOps Developer</strong><br>
+- Cybersecurity and hacking enthusiast 🤓<br>
+- I've always been passionate about technology and have been playing with code since I was 16!
+  </p>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mognon-murilo&layout=compact&theme=tokyonight)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+
+
+
 
 <!--
 **mognon-murilo/mognon-murilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

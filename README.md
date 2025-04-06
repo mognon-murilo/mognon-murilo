@@ -1,4 +1,5 @@
-##         👋 Hi there! I'm a Backend/DevOps Developer and a Computer Science student based in Brazil. This README is a small window into who I am!😁
+##         👋 Hi there! I'm a Backend/DevOps Developer and a Computer Science student based in Brazil. 
+##          This README is a small window into who I am!😁
 
 
 

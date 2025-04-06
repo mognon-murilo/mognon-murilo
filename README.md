@@ -1,4 +1,6 @@
-##                                                                    Hi there, I'm Murilo Moreira Mognon 👋
+##         👋 Hi there! I'm a Backend/DevOps Developer and a Computer Science student based in Brazil. This README is a small window into who I am!😁
+
+
 
 <!--
 **mognon-murilo/mognon-murilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
